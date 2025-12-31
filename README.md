@@ -69,14 +69,14 @@ Tidak memerlukan instalasi library tambahan.
 > Tambahkan file screenshot dalam folder repository lalu sesuaikan path berikut:
 
 **BLAST Application UI**  
-`asset/TampilanAplikasiBlast.png`
+![Tampilan Aplikasi BLAST](asset/TampilanAplikasiBlast.png)
 
 **FASTA Application UI**  
-`asset/TampilanAplikasiFasta.png`
+![Tampilan Aplikasi FASTA](asset/TampilanAplikasiFasta.png)
 
 **Run Program (VSCode)**  
-`asset/TampilanProgramBlast.png`  
-`asset/TampilanProgramFasta.png`
+![Tampilan Program BLAST](asset/TampilanProgramBlast.png)
+![Tampilan Program FASTA](asset/TampilanProgramFasta.png)
 
 ---
 
