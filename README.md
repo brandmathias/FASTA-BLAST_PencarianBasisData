@@ -74,8 +74,10 @@ Tidak memerlukan instalasi library tambahan.
 **FASTA Application UI**  
 ![Tampilan Aplikasi FASTA](asset/TampilanAplikasiFasta.png)
 
-**Run Program (VSCode)**  
+**Run Program (BLAST)**  
 ![Tampilan Program BLAST](asset/TampilanProgramBlast.png)
+
+**Run Program (FASTA)**
 ![Tampilan Program FASTA](asset/TampilanProgramFasta.png)
 
 ---
